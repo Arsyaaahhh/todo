@@ -40,7 +40,7 @@ Displays:
 - Completed tasks
 - Task list (or empty state)
 
-![Home Screen](screenshots/homescreen.jpeg)
+![Home Screen](screenshoots/homescreen.jpeg)
 
 ---
 
@@ -50,7 +50,7 @@ Allows users to:
 - Save new task
 - Return to home screen
 
-![Add Task Screen](screenshots/add_task.jpeg)
+![Add Task Screen](screenshoots/add_task.jpeg)
 
 ---
 
