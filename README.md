@@ -1,58 +1,59 @@
-# 📝 Todo App — Flutter
+# 📝 Todo App
 
-A simple **Todo List application** built using **Flutter** to help manage daily tasks.  
-This project was created as a learning exercise to understand Flutter fundamentals, UI layout, and basic app logic.
-
-> 🎯 Inspired by this YouTube playlist:  
-> https://youtube.com/playlist?list=PLtxqM_JR-PFhRlwA9GDyCjWL6zm19PkAY
+Todo App is a **Flutter-based mobile application** designed to help users manage daily tasks based on selected dates.  
+This project was created as a learning exercise to understand the fundamentals of Flutter development.
 
 ---
 
-## 🚀 About the Project
+## 📱 Features
 
-Todo App is a beginner-friendly Flutter application that allows users to manage tasks based on selected dates.  
-The main focus of this project is to practice:
-- Flutter widget tree
-- Material UI layout
-- Navigation between screens
-- Basic state handling
-
-This project is suitable for **learning, practice, and portfolio purposes**.
+- View tasks by selected date
+- Add new tasks
+- View total and completed tasks
+- Delete tasks
+- Simple and clean user interface
 
 ---
 
-## ✨ Features
+## 📸 Screenshots
 
-- 📅 Date-based task view  
-- ➕ Add new tasks  
-- 📊 Task summary (Total & Completed)  
-- ❌ Delete tasks  
-- 🎨 Clean and simple user interface  
-
----
-
-## 📱 App Screenshots
-
-### 🏠 Home Screen
-Displays:
-- Selected date
-- Total tasks
-- Completed tasks
-- Task list (or empty state)
-
-![Home Screen](screenshoots/homescreen.jpeg)
+<p align="center">
+  <img src="screenshoots/homescreen.jpeg" width="45%" />
+  <img src="screenshoots/add_task.jpeg" width="45%" />
+</p>
 
 ---
 
-### ➕ Add Task Screen
-Allows users to:
-- Enter task title
-- Save new task
-- Return to home screen
+## 🛠️ Tech Stack
 
-![Add Task Screen](screenshoots/add_task.jpeg)
+- **Flutter**
+- **Dart**
 
 ---
 
-## 🧱 Project Structure
+## 📚 Reference
 
+This project is inspired by the following YouTube tutorial playlist:
+
+https://youtube.com/playlist?list=PLtxqM_JR-PFhRlwA9GDyCjWL6zm19PkAY
+
+The tutorial was used as a learning reference, with modifications and reimplementation during development.
+
+---
+
+## 🚀 How to Run the Project
+
+1. Make sure Flutter is installed
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/Arsyaaahhh/todo.git
+   ```
+3. Navigate to the project directory:
+    ```bash
+   cd todo
+4. Install dependencies:
+    ```bash
+   flutter pub get
+5. Run the apllication:
+    ```bash
+   flutter run
